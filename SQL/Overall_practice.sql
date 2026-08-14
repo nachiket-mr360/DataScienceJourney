@@ -1,0 +1,1 @@
+--1.What is PostreSQL? how is it different from MySQL?
